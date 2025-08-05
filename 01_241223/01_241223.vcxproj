@@ -741,9 +741,12 @@
     <ClCompile Include="20250803_01_연산자 오버로딩.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="250803_01_연산자 오버로딩_01.cpp" />
-    <ClCompile Include="250803_01_연산자 오버로딩_02.cpp" />
-    <ClCompile Include="250803_01_연산자 오버로딩_03.cpp" />
+    <ClCompile Include="20250805_01_간단하게 string 클래스 만들어보기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="250803_01_연산자 오버로딩_01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="2a.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

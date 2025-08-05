@@ -819,11 +819,8 @@
     <ClCompile Include="250803_01_연산자 오버로딩_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="250803_01_연산자 오버로딩_02.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="250803_01_연산자 오버로딩_03.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="20250805_01_간단하게 string 클래스 만들어보기.cpp">
+      <Filter>소스 파일\얌얌구조 01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
