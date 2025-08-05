@@ -1,0 +1,25 @@
+#include <iostream>
+int main() {
+	char a[256];
+	char b[256];
+
+	std::cin >> a;
+	std::cin >> b;
+
+	int len = 0;
+	for (int i = 0; i <= 256; i++) {
+		if (a[i] == '\0') {
+			len = i;
+			break;
+		}
+	}
+	std::cout << len << std::endl;
+
+	for (int i = 0; i <= 256; i++) {
+		if (b[i] == '\0') {
+			len = i;
+			break;
+		}
+	}
+	std::cout << len;
+}
