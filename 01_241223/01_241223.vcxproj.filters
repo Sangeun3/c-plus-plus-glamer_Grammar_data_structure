@@ -861,5 +861,8 @@
     <ClCompile Include="20250808_02_12.cpp">
       <Filter>소스 파일\얌얌구조 02</Filter>
     </ClCompile>
+    <ClCompile Include="20250809_03 DAT hashTable 패턴찾기.cpp">
+      <Filter>소스 파일\얌얌구조 03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
