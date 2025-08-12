@@ -894,5 +894,14 @@
     <ClCompile Include="20250810_03_10.cpp">
       <Filter>소스 파일\얌얌구조 03</Filter>
     </ClCompile>
+    <ClCompile Include="20250812_02_01_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_02_02_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_02_03_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
