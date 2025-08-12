@@ -826,6 +826,15 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="20250812_04_01.cpp" />
+    <ClCompile Include="20250812_04_02.cpp" />
+    <ClCompile Include="20250812_04_03.cpp" />
+    <ClCompile Include="20250812_04_04.cpp" />
+    <ClCompile Include="20250812_04_05.cpp" />
+    <ClCompile Include="20250812_04_06.cpp" />
+    <ClCompile Include="20250812_04_07.cpp" />
+    <ClCompile Include="20250812_04_08.cpp" />
+    <ClCompile Include="20250812_04_09.cpp" />
+    <ClCompile Include="20250812_04_10.cpp" />
     <ClCompile Include="20250812_LV04 Direct기법 2중 포인터 2차원 배열 패턴찾기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

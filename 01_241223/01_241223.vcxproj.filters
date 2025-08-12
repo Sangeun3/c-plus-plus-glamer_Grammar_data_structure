@@ -49,9 +49,6 @@
     <Filter Include="소스 파일\얌얌코딩 11">
       <UniqueIdentifier>{91a4e97f-7fc1-4d50-8cb6-6a14cbdcc829}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\얌얌코딩 12">
-      <UniqueIdentifier>{d0beb0fb-4e6e-48a6-a2a5-c08b040592c8}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\얌얌코딩 13">
       <UniqueIdentifier>{0d510194-c777-4ffe-927f-a0aac6133388}</UniqueIdentifier>
     </Filter>
@@ -72,6 +69,9 @@
     </Filter>
     <Filter Include="소스 파일\얌얌구조 04">
       <UniqueIdentifier>{98269865-5120-47af-9d6a-2ac368d4418b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="얌얌코딩 12">
+      <UniqueIdentifier>{d0beb0fb-4e6e-48a6-a2a5-c08b040592c8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -613,37 +613,37 @@
       <Filter>소스 파일\얌얌코딩 11</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_2.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_3.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_5.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_8.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_7.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_4.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_1.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_9.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_6.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250717_12_10.cpp">
-      <Filter>소스 파일\얌얌코딩 12</Filter>
+      <Filter>얌얌코딩 12</Filter>
     </ClCompile>
     <ClCompile Include="20250718_13.cpp">
       <Filter>소스 파일\얌얌코딩 13</Filter>
@@ -910,6 +910,33 @@
       <Filter>소스 파일\얌얌구조 01</Filter>
     </ClCompile>
     <ClCompile Include="20250812_04_01.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_02.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_03.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_04.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_05.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_06.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_07.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_08.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_09.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_10.cpp">
       <Filter>소스 파일\얌얌구조 04</Filter>
     </ClCompile>
   </ItemGroup>
