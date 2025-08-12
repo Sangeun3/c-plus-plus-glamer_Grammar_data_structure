@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\얌얌구조 03">
       <UniqueIdentifier>{8d70984d-ce0e-4489-9bc4-0a6f55ec4362}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조 04">
+      <UniqueIdentifier>{98269865-5120-47af-9d6a-2ac368d4418b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -813,12 +816,6 @@
     <ClCompile Include="20250801_03.cpp">
       <Filter>소스 파일\얌얌구조 03</Filter>
     </ClCompile>
-    <ClCompile Include="20250803_01_연산자 오버로딩.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="250803_01_연산자 오버로딩_01.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="20250805_01_간단하게 string 클래스 만들어보기.cpp">
       <Filter>소스 파일\얌얌구조 01</Filter>
     </ClCompile>
@@ -902,6 +899,18 @@
     </ClCompile>
     <ClCompile Include="20250812_02_03_복습.cpp">
       <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="250803_01_연산자 오버로딩_01.cpp">
+      <Filter>소스 파일\얌얌구조 01</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_LV04 Direct기법 2중 포인터 2차원 배열 패턴찾기.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250803_01_연산자 오버로딩.cpp">
+      <Filter>소스 파일\얌얌구조 01</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_04_01.cpp">
+      <Filter>소스 파일\얌얌구조 04</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
