@@ -73,6 +73,9 @@
     <Filter Include="얌얌코딩 12">
       <UniqueIdentifier>{d0beb0fb-4e6e-48a6-a2a5-c08b040592c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조 05">
+      <UniqueIdentifier>{3ea250fa-b6fb-441f-9094-3f47795425d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -938,6 +941,60 @@
     </ClCompile>
     <ClCompile Include="20250812_04_10.cpp">
       <Filter>소스 파일\얌얌구조 04</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_재귀함수에 대한 착각과 진실.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_01.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_09.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_11.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_12.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_13.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_14.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_15.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_16.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_17.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_02.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_03.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_04.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_05.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_06.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_07.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
+    </ClCompile>
+    <ClCompile Include="20250816_05_08.cpp">
+      <Filter>소스 파일\얌얌구조 05</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
