@@ -996,5 +996,14 @@
     <ClCompile Include="20250816_05_08.cpp">
       <Filter>소스 파일\얌얌구조 05</Filter>
     </ClCompile>
+    <ClCompile Include="20250812_02_04_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_02_05_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250812_02_06_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
