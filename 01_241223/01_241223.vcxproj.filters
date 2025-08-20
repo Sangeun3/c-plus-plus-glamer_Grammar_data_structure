@@ -1035,7 +1035,13 @@
     <ClCompile Include="20250817_06_05.cpp">
       <Filter>소스 파일\얌얌구조 06</Filter>
     </ClCompile>
-    <ClCompile Include="20250818_0609.cpp">
+    <ClCompile Include="20250818_06_09.cpp">
+      <Filter>소스 파일\얌얌구조 06</Filter>
+    </ClCompile>
+    <ClCompile Include="20250820_06_10.cpp">
+      <Filter>소스 파일\얌얌구조 06</Filter>
+    </ClCompile>
+    <ClCompile Include="20250820_06_11.cpp">
       <Filter>소스 파일\얌얌구조 06</Filter>
     </ClCompile>
   </ItemGroup>

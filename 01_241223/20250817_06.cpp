@@ -1,7 +1,19 @@
 #include <iostream>
 
+void dfs(int level)
+{
+	if (level == 2)
+	{
+		return;
+	}
+	dfs(level + 1);
+	dfs(level + 1);
+	std::cout << level;  //branch가 2개인 트리
+}
+
 int main()
 {
+#pragma region csting
 	// cstring
 	char nameA[10] = "ABC";
 	char nameB[10] = "ABC";
@@ -34,8 +46,9 @@ int main()
 	int len = strlen(nameA);
 
 	strcpy_s(nameC, nameA);
+#pragma endregion	 
 	// 재귀호출 깊이
-
+	dfs(0);
 
 	// 재귀 호출 너비
 
