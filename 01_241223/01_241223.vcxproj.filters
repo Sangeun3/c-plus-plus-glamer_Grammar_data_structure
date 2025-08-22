@@ -1044,5 +1044,20 @@
     <ClCompile Include="20250820_06_11.cpp">
       <Filter>소스 파일\얌얌구조 06</Filter>
     </ClCompile>
+    <ClCompile Include="20250822_02_07_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250822_02_08_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250822_02_09_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250822_02_10_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
+    <ClCompile Include="20250822_02_11_복습.cpp">
+      <Filter>소스 파일\얌얌코딩 02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
