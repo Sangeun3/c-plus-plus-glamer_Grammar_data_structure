@@ -5,6 +5,7 @@
 
 char path[5] = "";
 int arr[5] = { 5,7,1,2,3 };
+int visited[5] = {};
 
 void test(int x)
 {
@@ -16,8 +17,8 @@ void test(int x)
 	{
 		return;
 	}*/
-	if (x >= 2 && path[x - 2] == path[x - 1])
-		return;
+//	if (x >= 2 && path[x - 2] == path[x - 1])
+//		return;
 
 	if (x == 3)
 	{
@@ -25,16 +26,22 @@ void test(int x)
 		return;
 	}
 	 
-	for (size_t i = 0; i < 3; i++)
+	for (size_t i = 0; i < 4; i++)
 	{
 		//아예 진입을 안하는 경우
 		/*if (x == 0 && ('A' + i) == 'A')
 		{
 			continue;
 		}*/
+		if (visited[i] == 1)
+		{
+			continue;
+		}
+		visited[i] = 1;
 		path[x] = 'A' + i;
 		test(x + 1);
 		path[x] = 0;
+		visited[i] = 0;
 	}
 	
 }
