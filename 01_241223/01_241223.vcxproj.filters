@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\얌얌코딩 16">
       <UniqueIdentifier>{af977bd4-d5b8-4a53-a006-455038750b0a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조 09">
+      <UniqueIdentifier>{3113016d-21d0-4d89-96fb-9330810fc04f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1112,6 +1115,15 @@
     </ClCompile>
     <ClCompile Include="20250830_08_02.cpp">
       <Filter>소스 파일\얌얌구조 08</Filter>
+    </ClCompile>
+    <ClCompile Include="20250830_08_03.cpp">
+      <Filter>소스 파일\얌얌구조 08</Filter>
+    </ClCompile>
+    <ClCompile Include="20251115_09_01.cpp">
+      <Filter>소스 파일\얌얌구조 09</Filter>
+    </ClCompile>
+    <ClCompile Include="20251115_09_02.cpp">
+      <Filter>소스 파일\얌얌구조 09</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
