@@ -1125,5 +1125,8 @@
     <ClCompile Include="20251115_09_02.cpp">
       <Filter>소스 파일\얌얌구조 09</Filter>
     </ClCompile>
+    <ClCompile Include="20251119_09_03.cpp">
+      <Filter>소스 파일\얌얌구조 09</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
