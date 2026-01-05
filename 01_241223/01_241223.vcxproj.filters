@@ -91,6 +91,9 @@
     <Filter Include="소스 파일\얌얌구조 09">
       <UniqueIdentifier>{3113016d-21d0-4d89-96fb-9330810fc04f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조  10">
+      <UniqueIdentifier>{a7b5eb92-3b88-44c7-96c3-677f19d4195b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1127,6 +1130,54 @@
     </ClCompile>
     <ClCompile Include="20251119_09_03.cpp">
       <Filter>소스 파일\얌얌구조 09</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_01.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_02.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_03.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_04.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_05.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_06.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_07.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_08.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_10.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_11.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_09.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_12.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_13.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_14.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_15.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
