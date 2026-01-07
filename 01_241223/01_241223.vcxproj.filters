@@ -94,6 +94,9 @@
     <Filter Include="소스 파일\얌얌구조  10">
       <UniqueIdentifier>{a7b5eb92-3b88-44c7-96c3-677f19d4195b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조  11">
+      <UniqueIdentifier>{bb3202d7-17d1-42d0-b400-8000ee2aa485}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1173,11 +1176,17 @@
     <ClCompile Include="20260103_10_13.cpp">
       <Filter>소스 파일\얌얌구조  10</Filter>
     </ClCompile>
-    <ClCompile Include="20260103_10_14.cpp">
+    <ClCompile Include="복습필요 20260103_10_14.cpp">
       <Filter>소스 파일\얌얌구조  10</Filter>
     </ClCompile>
-    <ClCompile Include="20260103_10_15.cpp">
+    <ClCompile Include="복습필요 20260103_10_15.cpp">
       <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260107.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260107 클래스 생성자 소멸자.cpp">
+      <Filter>소스 파일\얌얌구조 01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
