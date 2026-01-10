@@ -37,6 +37,8 @@ public:
     }
 };
 
+
+
 // 문제에서 제공된 main 함수
 int main() {
     srand(time(NULL));

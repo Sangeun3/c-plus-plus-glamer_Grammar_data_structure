@@ -97,6 +97,9 @@
     <Filter Include="소스 파일\얌얌구조  11">
       <UniqueIdentifier>{bb3202d7-17d1-42d0-b400-8000ee2aa485}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\링크드 리스트 코테">
+      <UniqueIdentifier>{b69573e5-1c57-447d-bd1c-cadded2e903c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1187,6 +1190,24 @@
     </ClCompile>
     <ClCompile Include="20260107 클래스 생성자 소멸자.cpp">
       <Filter>소스 파일\얌얌구조 01</Filter>
+    </ClCompile>
+    <ClCompile Include="20260103_10_15.cpp">
+      <Filter>소스 파일\얌얌구조  10</Filter>
+    </ClCompile>
+    <ClCompile Include="20260109_1.cpp">
+      <Filter>소스 파일\링크드 리스트 코테</Filter>
+    </ClCompile>
+    <ClCompile Include="20260109.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260109_링크드리스트.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260110_연산자오버로딩.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260110_yalist1.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
