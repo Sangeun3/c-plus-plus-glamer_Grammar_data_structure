@@ -100,6 +100,15 @@
     <Filter Include="소스 파일\링크드 리스트 코테">
       <UniqueIdentifier>{b69573e5-1c57-447d-bd1c-cadded2e903c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\얌얌구조  12">
+      <UniqueIdentifier>{2f5f6526-d5a0-4c13-a986-b1bac9cbf763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\얌얌구조  13">
+      <UniqueIdentifier>{f31d1a52-01ff-4d79-b10a-e0296e3c5c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브론즈2">
+      <UniqueIdentifier>{19b0ea4a-32a9-4887-a021-96cf6e9fb962}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1208,6 +1217,24 @@
     </ClCompile>
     <ClCompile Include="20260110_yalist1.cpp">
       <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260110_yalist2.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260110_yalist3.cpp">
+      <Filter>소스 파일\얌얌구조  11</Filter>
+    </ClCompile>
+    <ClCompile Include="20260111_string 클래스 만들어보기.cpp">
+      <Filter>소스 파일\얌얌구조  12</Filter>
+    </ClCompile>
+    <ClCompile Include="20260118 LV13 std vector 만들기 객체지향의 설계 방법.cpp">
+      <Filter>소스 파일\얌얌구조  13</Filter>
+    </ClCompile>
+    <ClCompile Include="[답] 2484번 주사위 네개.cpp">
+      <Filter>소스 파일\브론즈2</Filter>
+    </ClCompile>
+    <ClCompile Include="2484번 주사위 네개.cpp">
+      <Filter>소스 파일\브론즈2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

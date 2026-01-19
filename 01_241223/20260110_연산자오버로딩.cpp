@@ -35,6 +35,83 @@ struct Vector2
 		}
 
 	}
+	
+	
+	Vector2 operator*(Vector2 other)
+	{
+		Vector2 ret;
+		ret.x = x * other.x;
+		ret.y = y * other.y;
+		return ret;
+	}
+
+	Vector2 operator%(Vector2 other)
+	{
+		Vector2 ret;
+		ret.x = x % other.x;
+		ret.y = y % other.y;
+		return ret;
+	}
+
+	Vector2 operator+=(Vector2 other)
+	{
+		Vector2 ret;
+		x += other.x;
+		y += other.y;
+		ret.x = x;
+		ret.y = y;
+		return ret;
+	}
+
+	Vector2 operator-=(Vector2 other)
+	{
+		Vector2 ret;
+		x -= other.x;
+		y -= other.y;
+		return *this; // 자기 자신을 반환
+	}
+
+	Vector2 operator/=(Vector2 other)
+	{
+		Vector2 ret;
+		x /= other.x;
+		y /= other.y;
+		return *this; // 자기 자신을 반환
+	}
+
+	bool operator==(Vector2 other)
+	{
+		if (x == other.x && y == other.y)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	bool operator!=(Vector2 other)
+	{
+		if (x == other.x && y == other.y)
+		{
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+
+	Vector2 operator++()
+	{
+		x++; y++;
+		return *this;
+	}
+	Vector2 operator--()
+	{
+		x--; y--;
+		return *this;
+	}
 };
 //연산자 오버로딩
 
