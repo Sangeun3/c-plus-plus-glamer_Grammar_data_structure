@@ -109,6 +109,21 @@
     <Filter Include="소스 파일\브론즈2">
       <UniqueIdentifier>{19b0ea4a-32a9-4887-a021-96cf6e9fb962}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\실버1">
+      <UniqueIdentifier>{8c610669-f37e-4d83-80bb-6aa5f7d650ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브론즈4">
+      <UniqueIdentifier>{37b0e8f2-c49c-475e-9860-7bd5326f885e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브론즈1">
+      <UniqueIdentifier>{a5ed7809-5e51-4391-9687-ae0f4b729ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\바킹독 배열">
+      <UniqueIdentifier>{d4310a2e-19ad-4b5b-82c6-fbf6b89c73c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\얌얌알고 2">
+      <UniqueIdentifier>{865f5a18-8f55-4fd7-9ef6-a73c76186524}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1235,6 +1250,27 @@
     </ClCompile>
     <ClCompile Include="2484번 주사위 네개.cpp">
       <Filter>소스 파일\브론즈2</Filter>
+    </ClCompile>
+    <ClCompile Include="[답] 1629 곱셈.cpp">
+      <Filter>소스 파일\실버1</Filter>
+    </ClCompile>
+    <ClCompile Include="1629번 곱셈.cpp">
+      <Filter>소스 파일\실버1</Filter>
+    </ClCompile>
+    <ClCompile Include="2480번 주사위 세개.cpp">
+      <Filter>소스 파일\브론즈4</Filter>
+    </ClCompile>
+    <ClCompile Include="2609번 최대공약수와 최소공배수.cpp">
+      <Filter>소스 파일\브론즈1</Filter>
+    </ClCompile>
+    <ClCompile Include="array_test.cpp">
+      <Filter>소스 파일\바킹독 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="STL사용하여 문제풀이 연습하기.cpp">
+      <Filter>소스 파일\얌얌알고 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1-10 연습1.cpp">
+      <Filter>소스 파일\얌얌알고 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
