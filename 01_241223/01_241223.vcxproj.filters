@@ -1272,5 +1272,11 @@
     <ClCompile Include="1-10 연습1.cpp">
       <Filter>소스 파일\얌얌알고 2</Filter>
     </ClCompile>
+    <ClCompile Include="문제1.cpp">
+      <Filter>소스 파일\얌얌알고 2</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬 구현.cpp">
+      <Filter>소스 파일\얌얌알고 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

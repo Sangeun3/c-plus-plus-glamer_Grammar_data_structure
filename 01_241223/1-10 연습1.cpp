@@ -19,8 +19,21 @@ bool compare2(const downlodeApp& a, const downlodeApp& b)
 	return a.downCount > b.downCount;
 }
 
+struct bakery {
+	std::string bread;
+	int breadPrice;
+	char breadGrade;
+};
+
 int main()
 {
+	std::vector<bakery> DAZY = { {"Croissants", 1500, 'A'}, {"Twisted Buns", 1000, 'C'}, {"Coffee Beans", 2000, 'S'}, {"Sandwich Bread", 2500, 'S'} };
+	std::sort(DAZY.begin(), DAZY.end(),
+		[](const bakery& a, const bakery& b)
+		{
+			return a.breadPrice < b.breadPrice;
+		});
+
 	//벡터 숫자 오름차순 내림차순
 	std::vector<int> hight = { 150,120,130,140,160,170 };
 	std::vector<char> alpha = { 'D','F','G', 'i','A','k', 'B', 'C' };
@@ -39,6 +52,8 @@ int main()
 	std::sort(myApp.begin(), myApp.end(), compare);
 	std::sort(myApp.begin(), myApp.end(), compare2);
 
+
+	//벡터 구조체 람다식 오름차순 내림차순
 
 	return 0;
 }
