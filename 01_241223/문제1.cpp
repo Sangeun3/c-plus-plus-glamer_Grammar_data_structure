@@ -19,34 +19,32 @@ int main()
 
 	for (int i = 1; i < n; i++)
 	{
-		int j = i - 1;
-		while (j >= 0)
+		int k = i;
+		while (k != 0)
 		{
-			if (arr[i].num < arr[j].num)
+			if (arr[k-1].num > arr[k].num)
 			{
 				int t;
-				t = arr[i].num;
-				arr[i].num = arr[j].num;
-				arr[j].num = t;
+				t = arr[k].num;
+				arr[k].num = arr[k-1].num;
+				arr[k-1].num = t;
 
 				char temp;
-				temp = arr[i].ch;
-				arr[i].ch = arr[j].ch;
-				arr[j].ch = temp;
-				j--;
+				temp = arr[k].ch;
+				arr[k].ch = arr[k-1].ch;
+				arr[k-1].ch = temp;
+				k--;
 				continue;
 			}
 
-			if (arr[i].num == arr[j].num && arr[j].ch > arr[i].ch  )
+			if (arr[k].num == arr[k-1].num && arr[k-1].ch > arr[k].ch  )
 			{
 					char temp;
-					temp = arr[i].ch;
-					arr[i].ch = arr[j].ch;
-					arr[j].ch = temp;
-					j--;
-					continue;
+					temp = arr[k].ch;
+					arr[k].ch = arr[k-1].ch;
+					arr[k-1].ch = temp;
 			}
-			j--;
+			k--;
 			continue;
 		}
 	}
