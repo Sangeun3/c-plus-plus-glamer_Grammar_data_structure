@@ -1281,5 +1281,11 @@
     <ClCompile Include="문제2.cpp">
       <Filter>소스 파일\얌얌알고 2</Filter>
     </ClCompile>
+    <ClCompile Include="문제3.cpp">
+      <Filter>소스 파일\얌얌알고 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1977번 완전제곱수.cpp">
+      <Filter>소스 파일\브론즈2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
