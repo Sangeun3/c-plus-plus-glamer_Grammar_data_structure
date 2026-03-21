@@ -124,6 +124,9 @@
     <Filter Include="소스 파일\얌얌알고 2">
       <UniqueIdentifier>{865f5a18-8f55-4fd7-9ef6-a73c76186524}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\실버2">
+      <UniqueIdentifier>{833dddfa-3449-40f8-8947-c77560999978}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="얌얌코딩 20250704_02_01.cpp">
@@ -1289,6 +1292,9 @@
     </ClCompile>
     <ClCompile Include="11098번 첼시를 도와줘.cpp">
       <Filter>소스 파일\브론즈2</Filter>
+    </ClCompile>
+    <ClCompile Include="5635번 생일.cpp">
+      <Filter>소스 파일\실버2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
